@@ -1,4 +1,4 @@
-name = '小红'
+name = '小明'
 sex = '男'
 age = 18
 money = 20.56
